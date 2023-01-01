@@ -1,3 +1,5 @@
+# Steve Jobs Stanford University Graduation Speech
+
 This program is brought to you by Stanford University. Please visit us at Stanford. Dot edu. (00;00;07;12 - 00;00;15;04)
 
 Thank you. (00;00;21;06 - 00;00;23;15)
