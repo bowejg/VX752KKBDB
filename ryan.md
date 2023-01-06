@@ -1,13 +1,6 @@
 # Ryan Interview
 # Ryan Interview
 
-
-lines = transcript.split('\n')
-
-for l in lines:
-  out = l.split('(')[0]
-  print(out)
-
 Ryan: Ready to roll them around town. 
 
 Ryan: Speed. 
