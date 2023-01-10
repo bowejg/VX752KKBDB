@@ -1,3 +1,4 @@
+# Juan Kimo
 
 Jack Bowen: Good. Nice. Great to meet you. I'm Jack, one of the founders of GE.
 
