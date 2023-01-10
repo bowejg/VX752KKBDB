@@ -36,15 +36,15 @@ Juan Kimo: gap. Yep. Totally. Yeah. Yeah. Got it.
 
 Jack Bowen: Interesting. And like, what sort of queries do you put in there? Like, what kind of things you asking?
 
-Juan Kimo: So I haven't my use case of bars. You know, I want to do some background on a particular oncology therapeutic. So you know, a curated set of articles, PDFs, and then made a project out of those. And then asking particular questions around, say, toxicity associated with the product. Efficacy associated with the drug questions like that, and going through, you know, the corpus of PDFs that were uploaded.
+Juan Kimo: So I haven't my use case so far. You know, I want to do some background on a particular oncology therapeutic. So you know, a curated set of articles, PDFs, and then made a project out of those. And then asking particular questions around, say, toxicity associated with the product. Efficacy associated with the drug questions like that, and going through, you know, the corpus of PDFs that were uploaded.
 
 Jack Bowen: Okay. And if you find something interesting, like, what do you do next? Do you use websites?
 
-Juan Kimo: Yeah, so I haven't hammered out the workflow for that yet. But certainly capturing those snippets, summaries. And, you know, I am a large, big obsidian user. So that's kind of like my repository of putting things and going from there. But I also imagine, I would maybe want to dive in further into the article and mark it up. And I use, for example, margin note, to do that gives me kind of a visual board of notes that are highlighted. It's just a highlighting app, there's no AI type features to it. So I'd use that in conjunction with Jamie,
+Juan Kimo: Yeah, so I haven't hammered out the workflow for that yet. But certainly capturing those snippets, summaries. And, you know, I am a large, big Obsidian user. So that's kind of like my repository of putting things and going from there. But I also imagine, I would maybe want to dive in further into the article and mark it up. And I use, for example, margin note, to do that gives me kind of a visual board of notes that are highlighted. It's just a highlighting app, there's no AI type features to it. So I'd use that in conjunction with Genie,
 
 Jack Bowen: have you tried using the highlighting in our tool?
 
-Juan Kimo: Yeah, the thing I like, or that is missing is the kind of the, you get, like a mind map visual of your notes, okay. And you can do a quarter of a visual outline, and the individual cards or notes that you make, you know, you can collapse them down. Also, yeah, I think is kind of that visual that is really appealing. And then, you know, you can have multiple versions of papers open. And I think now with the new tab facility, I might be able to do that I haven't tested it out to where you have the same PDF, but you have one PDF that you can go say like for the references. So if you read in the paper, you see a reference you know, usually with just one PDF you got to click to the you know, the bottom of the page
+Juan Kimo: Yeah, the thing I like, or that is missing is the kind of the, you get, like a mind map visual of your notes, okay. And you can do a kind of a visual outline, and the individual cards or notes that you make, you know, you can collapse them down. Also, yeah, I think is kind of that visual that is really appealing. And then, you know, you can have multiple versions of papers open. And I think now with the new tab facility, I might be able to do that I haven't tested it out to where you have the same PDF, but you have one PDF that you can go say like for the references. So if you read in the paper, you see a reference you know, usually with just one PDF you got to click to the you know, the bottom of the page
 
 Jack Bowen: Yes. Yeah. Okay. I'm like yes, suppose next question is like what like, what do you like least about Genie? Like, what what's the what's the Yeah,
 
@@ -74,7 +74,7 @@ Jack Bowen: Yeah. Okay. What do you like most about Gd?
 
 Juan Kimo: Like the summarization, the AI paraphrasing. I like the keyword. Quick, easy, click a key word and see the snippets come up. Again, that really facilitates for some reason for me. And then also the working on the corpus of papers. So you're just not asking, say the questions, just one PDF, but you're asking it against the whole corpus of PDFs, which, to my knowledge, maybe there's only one other tool that I'm aware of that can do something similar?
 
-Jack Bowen: Which ones that's illicit? Yeah, of course. Yeah. That's it.
+Jack Bowen: Which ones that's Ellicit? Yeah, of course. Yeah. That's it.
 
 Juan Kimo: It's more of, you know, to, you know, clinical trial type papers.
 
@@ -98,7 +98,7 @@ Jack Bowen: Interesting. Okay. I'm
 
 Juan Kimo: sorry, my helper.
 
-Jack Bowen: Very nice. Um, what? What's the sort of typical trigger PTSD, like do you will meet, so you kind of crack it open that they've written?
+Jack Bowen: Very nice. Um, what? What's the sort of typical trigger for you to use Genie?, like what makes you kind of crack it open and put a paper in?
 
 Juan Kimo: Yeah. And so it was perfect timing for that project on that particular therapeutic, you know, I needed to do some work on it. So that was the first thing I thought of, you know, the beta was just released by you guys. And I go, Oh, that's perfect. Additionally, I have to do some diligence on a particular company. So I'll be doing that through that similar workflow.
 
@@ -110,11 +110,11 @@ Jack Bowen: Is that like, a sort of separate thing to your main work?
 
 Juan Kimo: Yeah, yeah. It's more, you know, interest in particular thing, so it does, you know, associated with my work, but not always.
 
-Jack Bowen: Okay, got it. And did you? When you paid for Jeannie, was that like a work expense? Or was that
+Jack Bowen: Okay, got it. And did you? When you paid for Genie, was that like a work expense? Or was that
 
-Juan Kimo: your ads to work? Expense? Yeah.
+Juan Kimo: It's a work expense Yeah.
 
-Jack Bowen: Okay. Got it. Yeah. And, okay, and like, what tasks? Do you think that Jeanne, that would you say, Jean you'd like least suited to? Is there anything that you tried to use it for that sort of, like worried badly? Oh,
+Jack Bowen: Okay. Got it. Yeah. And, okay, and like, what tasks? Do you think that Genie, that would you say, Genie is like least suited to? Is there anything that you tried to use it for that sort of, like worked really badly? Or..?
 
 Juan Kimo: that's interesting question. I don't know, if I have a good answer to that,
 
